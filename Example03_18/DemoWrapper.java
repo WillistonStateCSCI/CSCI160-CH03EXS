@@ -2,6 +2,8 @@
     Anderson, Franceschi
 */
 
+//Wrapper classes like Integer and Double allow primitive classes like int and double to be used as objects.
+
 public class DemoWrapper
 {
   public static void main( String [] args )

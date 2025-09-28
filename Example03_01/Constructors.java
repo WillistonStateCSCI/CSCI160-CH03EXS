@@ -13,5 +13,7 @@ public class Constructors
     greeting = new String( "Hello" );
 
     String firstName = new String( "Jane" );
+
+    System.out.println(greeting+" "+firstName);
   }
 }
